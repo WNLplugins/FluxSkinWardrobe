@@ -29,3 +29,10 @@ Usage: Start your server, open the GUI using /wardrobe, and paste your skin link
 NovaSkin: Short links, post links, and long URLs.
 
 Direct: Direct PNG texture links and Minecraft texture hashes.
+
+🛠 Commands & Permissions
+
+* Command                         *Permission
+  
+- /wardrobe                       - fluxwardrobe.use                                
+- /skin <link>                    - fluxwardrobe.set
